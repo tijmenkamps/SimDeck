@@ -1,2 +1,2 @@
 # SimDeck
-A digital system for creating button box systems, used for simulation games.
+A system for using mobile devices as digital button boxes.
